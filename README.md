@@ -5,7 +5,13 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-isaacwonhalee-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/isaacwonhalee/)](https://www.twitter.com/isaacwonhalee/)
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=isaaclee.org/)](isaaclee.org/) <p align='left'>Hello! My name is Isaac Lee. I'm a recent graduate from the University of Vermont. I have a Bachelor's of Science in Computer Science, and a Minor in Statistics</p><p align='left'> You can view my resume <a href='isaaclee.org/RESUME ' target=_blank><u>here</u>.</a></p>
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=isaaclee.org/)](isaaclee.org/) 
+
+
+<p align='left'>Hello! My name is Isaac Lee. I'm a recent graduate from the University of Vermont. I have a Bachelor's of Science in Computer Science, and a Minor in Statistics</p>
+
+<p align='left'> You can view my resume <a href='isaaclee.org/RESUME ' target=_blank><u>here</u>.</a></p>
+
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=isaaclee12 alt=isaaclee12 /> </p>
