@@ -8,6 +8,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=isaaclee.org/)](isaaclee.org/) 
 
 <br>
+<br>
 
 <p align='left'>Hello! My name is Isaac Lee. I'm a recent graduate from the University of Vermont. I have a Bachelor's of Science in Computer Science, and a Minor in Statistics</p>
 
