@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<p align='left'> You can view my resume <a href='https://isaaclee.org/RESUME' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view my resume <a href='https://isaaclee.org/RESUME' target="_blank"><u>here</u>.</a></p>
 
 <br>
 
