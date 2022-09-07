@@ -1,13 +1,6 @@
 ## Hey 👋, This is Isaac Lee
-[![Mail Badge](https://img.shields.io/badge/-isaac.wonha.lee@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isaac.wonha.lee@outlook.com)](mailto:isaac.wonha.lee@outlook.com) 
+[![Mail Badge](https://img.shields.io/badge/-isaac.wonha.lee@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isaac.wonha.lee@outlook.com)](mailto:isaac.wonha.lee@outlook.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/isaac-lee-621873133/) [![Twitter Badge](https://img.shields.io/badge/-isaacwonhalee-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/isaacwonhalee/)](https://www.twitter.com/isaacwonhalee/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=isaaclee.org/)](isaaclee.org/) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/isaac-lee-621873133/)
-
-[![Twitter Badge](https://img.shields.io/badge/-isaacwonhalee-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/isaacwonhalee/)](https://www.twitter.com/isaacwonhalee/)
-
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=isaaclee.org/)](isaaclee.org/) 
-
-<br>
 <br>
 
 <p align='left'> You can view my resume <a href="https://isaaclee.org/RESUME" target="_blank"><u>here</u>.</a></p>
