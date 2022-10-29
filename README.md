@@ -5,6 +5,11 @@
 <p align='left'> You can view my resume <a href="https://isaaclee.org/RESUME" target="_blank"><u>here</u>.</a></p>
 <br>
 
+# Project Highlights:
+
+## [Schedule-Compiler]([url](https://github.com/isaaclee12/Schedule-Compiler)) (Python)
+A simple text-based program designed to help people line up their schedules to find the best time for an event. Made in python.
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=isaaclee12 alt=isaaclee12 /> </p>
 
