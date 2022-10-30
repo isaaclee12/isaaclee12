@@ -8,11 +8,11 @@
 # Project Highlights:
 
 <br>
-## [statistics-and-data-science-club-v2]((https://github.com/isaaclee12/statistics-and-data-science-club-v2)) (WebDev, Python, Django, HTML, CSS)
+## [statistics-and-data-science-club-v2]([https://github.com/isaaclee12/statistics-and-data-science-club-v2]) (WebDev, Python, Django, HTML, CSS)
 My first professional project, where I used Django, HTML, and Boostrap to revamp the website for my school's Statistics and Data Science Club.
 
 <br>
-## [Schedule-Compiler]([url](https://github.com/isaaclee12/Schedule-Compiler)) (Python)
+## [Schedule-Compiler](https://github.com/isaaclee12/Schedule-Compiler) (Python)
 A simple text-based program designed to help people line up their schedules to find the best time for an event.
 
 <br>
