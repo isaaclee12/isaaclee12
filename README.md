@@ -8,7 +8,7 @@
 # Project Highlights:
 
 <br>
-[__statistics-and-data-science-club-v2 (WebDev, Python, Django, HTML, CSS)__](https://github.com/isaaclee12/statistics-and-data-science-club-v2)
+[statistics-and-data-science-club-v2 (WebDev, Python, Django, HTML, CSS)](https://github.com/isaaclee12/statistics-and-data-science-club-v2)
 My first professional project, where I used Django, HTML, and Boostrap to revamp the website for my school's Statistics and Data Science Club.
 
 <br>
