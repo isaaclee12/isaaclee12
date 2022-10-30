@@ -8,7 +8,7 @@
 # Project Highlights:
 
 <br>
-<strong><a href="https://github.com/isaaclee12/portfolio" target="_blank">portfolio</a>/</strong>
+<strong><a href="https://github.com/isaaclee12/portfolio" target="_blank">portfolio</a></strong>
 <p>My personal portfolio website. Created with SvelteKit and hosted on my Raspberry Pi.</p>
 
 <br>
