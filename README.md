@@ -8,6 +8,10 @@
 # Project Highlights:
 
 <br>
+<strong<a href="https://github.com/isaaclee12/portfolio" target="_blank">portfolio</a>/</strong>
+<p>My personal portfolio website. Created with SvelteKit and hosted on my Raspberry Pi.</p>
+
+<br>
 <strong><a href="https://github.com/isaaclee12/statistics-and-data-science-club-v2" target="_blank">statistics-and-data-science-club-v2 (WebDev, Python, Django, HTML, CSS)</a></strong>
 <p>My first professional project, where I used Django, HTML, and Boostrap to revamp the website for my school's Statistics and Data Science Club.</p>
 
