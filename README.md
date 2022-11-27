@@ -1,26 +1,3 @@
-## Hey 👋, This is Isaac Lee
-[![Mail Badge](https://img.shields.io/badge/-isaac.wonha.lee@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isaac.wonha.lee@outlook.com)](mailto:isaac.wonha.lee@outlook.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/isaac-lee-621873133/) [![Twitter Badge](https://img.shields.io/badge/-isaacwonhalee-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/isaacwonhalee/)](https://www.twitter.com/isaacwonhalee/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=isaaclee.org/)](isaaclee.org/) 
-
-<br>
-<p align='left'> You can view my resume <a href="https://isaaclee.org/RESUME" target="_blank"><u>here</u>.</a></p>
-<br>
-
-# Project Highlights:
-
-<br>
-<strong><a href="https://github.com/isaaclee12/portfolio" target="_blank">portfolio</a></strong>
-<p>My personal portfolio website. Created with SvelteKit and hosted on my Raspberry Pi.</p>
-
-<br>
-<strong><a href="https://github.com/isaaclee12/statistics-and-data-science-club-v2" target="_blank">statistics-and-data-science-club-v2 (WebDev, Python, Django, HTML, CSS)</a></strong>
-<p>My first professional project, where I used Django, HTML, and Boostrap to revamp the website for my school's Statistics and Data Science Club.</p>
-
-<br>
-<strong><a href="https://github.com/isaaclee12/Schedule-Compiler" target="_blank">Schedule-Compiler (Python)</a></strong>
-<p>A simple text-based program designed to help people line up their schedules to find the best time for an event.</p>
-
-<br>
-
 <h1 align="center">Hi 👋, I'm Isaac Lee</h1>
 <h3 align="center">Full Stack Software Engineer, B.S. in Computer Science</h3>
 
