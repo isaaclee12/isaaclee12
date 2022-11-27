@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac Lee</h1>
 <h3 align="center">Full Stack Software Engineer, B.S. in Computer Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaaclee12" alt="isaaclee12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/isaacwonhalee" target="blank"><img src="https://img.shields.io/twitter/follow/isaacwonhalee?logo=twitter&style=for-the-badge" alt="isaacwonhalee" /></a> </p>
-
 - 🔭 I’m currently working on [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
 
 - 🌱 I’m currently learning **Docker and DevOps**
