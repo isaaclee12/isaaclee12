@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [A Data Visualization of NYPD Arrests Data_Visualization Demo](https://github.com/isaaclee12/NYPD_Arrests_Data_Visualization_Demo)
 
-- 👨‍💻 All of my projects are available at [https://isaaclee.org/](https://isaaclee.org/)
+- 👨‍💻 All of my projects are available at https://isaac-lee.netlify.app/
 
 - 💬 Ask me about **TypeScript, React, Django, Python, C++, HTML, Tailwind CSS, and Git**
 
