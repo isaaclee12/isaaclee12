@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isaac Lee</h1>
 <h3 align="center">Full Stack Software Engineer, B.S. in Computer Science</h3>
 
-- 💼 **IMPORTANT: On hiatus from personal projects, currently working at 2U Inc! See my open source commit history there at: [https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24](https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24)**
+- 💼 **IMPORTANT: On hiatus from personal projects,**
+- 📚 **as I am currently working at 2U Inc! See my open source commit history there at: [https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24](https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24)**
 
 - 🔭 My most recent personal project is [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
 
