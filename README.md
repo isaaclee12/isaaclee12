@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Lee</h1>
 <h3 align="center">Full Stack Software Engineer, B.S. in Computer Science</h3>
 
-- 🔭 I’m currently working on [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
+- 🔭 My most recent personal project is [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
 
 - 🌱 I’m currently learning **Docker and DevOps**
-
-- 🤝 I’m looking for help with [A Data Visualization of NYPD Arrests Data_Visualization Demo](https://github.com/isaaclee12/NYPD_Arrests_Data_Visualization_Demo)
 
 - 👨‍💻 All of my projects are available at https://isaac-lee.netlify.app/
 
@@ -13,15 +11,16 @@
 
 - 📫 How to reach me **isaac.wonha.lee@outlook.com**
 
-- 📄 Know about my experiences [https://github.com/isaaclee12/full-stack-software-engineer-resume](https://github.com/isaaclee12/full-stack-software-engineer-resume)
+- 📄 Know about my experiences [https://www.linkedin.com/in/isaac-lee-621873133/](https://www.linkedin.com/in/isaac-lee-621873133/)
 
 - ⚡ Fun fact **I can DM your next D&D Campaign**
 
-<h3 align="left">Connect with me:</h3>
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isaacwonhalee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaacwonhalee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isaac-lee-621873133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-lee-621873133" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- ## Projects and Contributions:
 
