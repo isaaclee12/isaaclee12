@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer, B.S. in Computer Science</h3>
 
 - 💼 **IMPORTANT: On hiatus from personal projects...**
-- 📚 **...because _I am currently working at 2U Inc_! You can check out my <ins>open source commit history</ins> there at: [https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24](https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24)**
+- 📚 **...because _I am currently working at 2U Inc_! You can [check out my open source commit history here](https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24)!
 
 - 🔭 My most recent personal project is [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
 
