@@ -4,9 +4,9 @@
 - 💼 **IMPORTANT: On hiatus from personal projects...**
 - 📚 **...because _I am currently working at 2U Inc_!**
 
-<h3 align="center"> ‼️‼️You can [check out my open source commit history at 2U Inc here](https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24)! ‼️‼️</h3>
+<h3 align="center"> ‼️‼️[You can check out my open source commit history at 2U Inc here!](https://github.com/ilee2u?tab=overview&from=2025-02-01&to=2025-02-24) ‼️‼️</h3>
 
-- 🔭 My most recent personal project is [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
+- 🔭 My favorite personal project that I've worked on is [ScheduleMaker](https://github.com/isaaclee12/ScheduleMaker)
 
 - 🌱 I’m currently learning **Docker and DevOps**
 
