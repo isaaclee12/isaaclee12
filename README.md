@@ -6,7 +6,7 @@
 <h2 align="center"> ‼️You can check out my open source commit history at 2U here! ‼️https://github.com/ilee2u</h2>
 
 - 🔭 My latest personal project that I've worked on is my [Korean-English Translator](https://github.com/isaaclee12/korean-english-translator-client)
-  ![A gif demonstrating Isaac's korean-english translator project](https://i.imgur.com/L5nJnZg.gif)
+  ![A gif demonstrating Isaac's korean-english translator project](https://i.imgur.com/bOq0X1R.gif)
 
 - 🌱 I’m currently learning **Docker and DevOps**
 
