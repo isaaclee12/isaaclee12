@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac Lee</h1>
 <h3 align="center">Full Stack Software Engineer, B.S. in Computer Science</h3>
 
-<h3 align="center">💼 **IMPORTANT: On hiatus from personal projects because I am currently working at 2U Inc!**</h3>
-
 <h2 align="center"> ‼️You can check out my open source commit history at 2U here! ‼️https://github.com/ilee2u</h2>
 
 - 🔭 My latest personal project that I've worked on is my [Korean-English Translator](https://github.com/isaaclee12/korean-english-translator-client)
