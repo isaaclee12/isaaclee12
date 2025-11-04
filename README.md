@@ -3,18 +3,15 @@
 
 - ‼️ You can check out my open source commit history at 2U here! https://github.com/ilee2u
 
-- 🔭 My latest personal project that I've worked on is my [Korean-English Translator](https://github.com/isaaclee12/korean-english-translator-client)
-<!--  ![A gif demonstrating Isaac's korean-english translator project](https://i.imgur.com/bOq0X1R.gif) -->
+- 🔭 My latest personal project that I've worked on is my [NYC Climate Efficiency Map](https://nyc-climate-efficiency-map.vercel.app/)
 
-- 🌱 I’m currently learning **Docker and DevOps**
+- 👨‍💻 All of my projects are available at http://isaaclee.org/
 
-- 👨‍💻 All of my projects are available at https://isaac-lee.netlify.app/
-
-- 💬 Ask me about **TypeScript, React, Django, Python, C++, HTML, Tailwind CSS, and Git**
+- 💬 Ask me about **TypeScript, React, Django, Python, and PostgreSQL**
 
 - 📫 How to reach me **isaac.wonha.lee@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/isaac-lee-621873133/](https://www.linkedin.com/in/isaac-lee-621873133/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/isaacleesoftwareengineer](https://www.linkedin.com/in/isaacleesoftwareengineer)
 
 - ⚡ Fun fact **I can DM your next D&D Campaign**
 
@@ -153,35 +150,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclee12&" alt="isaaclee12" /></p>
 
-
-## Full Skills List:
-
-Programming Languages and Frameworks: 
-○ JavaScript (TypeScript, Node, npm, React, Svelte, D3)
-○ Python (Django)
-○ C++
-○ HTML
-○ CSS (Tailwind, Bootstrap)
-○ Git (Github)
-○ R
-○ SQL (MySQL, SQLite3)
-
-Application and Network Infrastructure:
-○ PaaS, SaaS, and IaaS services
-○ Docker
-○ AWS
-○ Azure
-○ Linux
-○ Cloudflare
-○ Nginx
-
-Data Science:
-○ Web Scraping
-○ Data Cleaning
-○ Data Analysis
-○ Data Visualization
-
-Soft Skills:
-○ Problem Solving
-○ Oral and Written Communication
-○ Team Collaboration
